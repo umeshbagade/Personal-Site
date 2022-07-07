@@ -28,3 +28,7 @@ this fixes the position of the element relative to body, despite of scrolling
 4. static-
 this is the by default property, in this the browser tells the position of the element.
 displays one after the other
+
+**Font Size**
+The Standard Font size is  16px==100%==1rem;
+% and rem are adjustable according to the browser font size preference.
